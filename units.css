@@ -1,0 +1,13 @@
+.parent{
+    width: 50%;
+    height: 70%;
+}
+.container{
+    /* width: 700px;
+    height: 300px; */
+    /* width: 50vw;
+    height: 50vh; */
+    width: 70%;
+    height: 50%;
+    background-color: black;
+}
